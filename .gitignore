@@ -1,0 +1,12 @@
+# IntelliJ / Maven / Java
+.idea/
+*.iml
+out/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+src/main/resources/db.properties
